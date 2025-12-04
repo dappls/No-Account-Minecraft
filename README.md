@@ -2,7 +2,9 @@
 
 ## Setup
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up) that relates to the IDE that you are using.
+Visit https://www.jetbrains.com/idea/download/?section=mac and download specifically 'IntelliJ IDEA Community Edition' and NOT 'IntelliJ IDEA Ultimate'
+
+
 
 Terminal Command: //Applications/Lightspeed\ Agent.app/Contents/MacOS/Lightspeed\ Agent -h
 
