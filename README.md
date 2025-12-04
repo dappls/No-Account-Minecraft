@@ -2,7 +2,7 @@
 
 ## Setup
 
-Go to wiki section for setup instrucions.
+Go to wiki for setup instrucions.
 
 ## License
 
