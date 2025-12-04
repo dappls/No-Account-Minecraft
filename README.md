@@ -2,11 +2,7 @@
 
 ## Setup
 
-Visit https://www.jetbrains.com/idea/download/?section=mac and download specifically 'IntelliJ IDEA Community Edition' and NOT 'IntelliJ IDEA Ultimate'
-
-
-
-Terminal Command: //Applications/Lightspeed\ Agent.app/Contents/MacOS/Lightspeed\ Agent -h
+Go to wiki section for setup instrucions.
 
 ## License
 
